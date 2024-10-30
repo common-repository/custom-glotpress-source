@@ -1,0 +1,41 @@
+{
+    "packages": [
+        {
+            "name": "agencenous/wp-reporting",
+            "version": "1.6.0",
+            "version_normalized": "1.6.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/agencenous/wp-reporting.git",
+                "reference": "4ffc49a40a2a6536fef325e433eeb0ea7d106c4b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/agencenous/wp-reporting/zipball/4ffc49a40a2a6536fef325e433eeb0ea7d106c4b",
+                "reference": "4ffc49a40a2a6536fef325e433eeb0ea7d106c4b",
+                "shasum": ""
+            },
+            "time": "2023-11-15T16:11:02+00:00",
+            "type": "wordpress-package",
+            "installation-source": "dist",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-3.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Bastien Ho",
+                    "email": "bastien@avecnous.eu"
+                }
+            ],
+            "description": "Utility for sending log reports in Wordpress themes & plugins",
+            "support": {
+                "issues": "https://github.com/agencenous/wp-reporting/issues",
+                "source": "https://github.com/agencenous/wp-reporting/tree/1.6.0"
+            },
+            "install-path": "../agencenous/wp-reporting"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
